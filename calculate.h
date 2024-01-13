@@ -6,5 +6,5 @@
 
 float Calculate(float Numeral, char Operation[4]);
 
-#endif /*CALCULATE_H_*/
+#endif /*CALCULAE_H_*/
 
